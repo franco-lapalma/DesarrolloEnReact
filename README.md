@@ -42,11 +42,8 @@ Una página web completa que implementa estructura semántica HTML5 y estilos CS
 
 ## Capturas de Pantalla
 
-*Aquí deberías incluir capturas de pantalla de tu página web final mostrando:*
-- La estructura completa de la página
-- El formulario de contacto
-- El diseño responsivo
-
+![alt text](image.png)
+![alt text](image-1.png)
 ## Créditos
 
 - **Autor**: Franco
@@ -54,27 +51,5 @@ Una página web completa que implementa estructura semántica HTML5 y estilos CS
 - **Unidad**: Módulo 1 - Unidad 1
 - **Asignatura**: Mi primera página web semántica y estilizada
 
-## Fuentes
 
-### Documentación
-- MDN Web Docs: [HTML Semántico](https://developer.mozilla.org/es/docs/Web/HTML/Elemento_semántico)
-- MDN Web Docs: [CSS Variables](https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_variables)
-- W3C: [HTML5 Specification](https://www.w3.org/TR/html5/)
 
-### Imágenes
-- La imagen utilizada es un placeholder. Para reemplazarla, coloca una imagen en formato JPG, PNG o GIF en la carpeta `assets/` y renómbrala como `imagen-web.jpg`.
-
-### Licencias
-- Este proyecto utiliza licencia MIT para el código fuente.
-- Las imágenes deben cumplir con las licencias de uso correspondientes.
-
-## Entrega
-
-El proyecto cumple con todos los criterios de evaluación:
-- ✅ Estructura semántica HTML correcta
-- ✅ Uso adecuado de atributos obligatorios
-- ✅ Formulario completo con todos los campos solicitados
-- ✅ Estilos CSS externos con variables
-- ✅ Selectores de clase e ID implementados
-- ✅ Buenas prácticas de indentación y organización
-- ✅ Presentación prolija del repositorio
