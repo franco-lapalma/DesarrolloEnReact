@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Página Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mi Primera Página Web</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#articulo">Artículo</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article id="articulo">
+            <h2>Bienvenidos a mi Página</h2>
+            <p>Esta es mi <strong>primera página web</strong> creada con HTML y CSS. Aquí puedes aprender <em>muchas cosas interesantes</em> sobre el desarrollo web. <mark>Recuerda</mark> que las buenas prácticas son fundamentales.</p>
+            
+            <img src="assets/imagen-web.jpg" alt="Imagen de ejemplo de desarrollo web" class="imagen-articulo">
+            
+            <ol>
+                <li>Aprender la estructura semántica de HTML</li>
+                <li>Entender los selectores y propiedades de CSS</li>
+                <li>Aplicar buenas prácticas de desarrollo</li>
+            </ol>
+        </article>
+
+        <section id="contacto">
+            <h3>Formulario de Contacto</h3>
+            <form>
+                <div>
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" required>
+                </div>
+                
+                <div>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                
+                <div>
+                    <label for="interes">Interés:</label>
+                    <select id="interes" name="interes">
+                        <option value="desarrollo">Desarrollo Web</option>
+                        <option value="diseño">Diseño</option>
+                        <option value="seo">SEO</option>
+                    </select>
+                </div>
+                
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <small>Creado por Franco - 2026</small>
+    </footer>
+</body>
+</html>
