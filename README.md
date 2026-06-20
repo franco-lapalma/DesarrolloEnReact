@@ -18,7 +18,7 @@ git checkout tarea1-js-esencial
 
 ## Capturas de pantalla
 ![alt text](image.png)
-![alt text](image copy.png)
+![alt text](imagecopy.png)
 
 ## Créditos
 Estudiante: Franco Lapalma
