@@ -17,8 +17,8 @@ git checkout tarea1-js-esencial
 3. Abrir el archivo `index.html` en un navegador para probar.
 
 ## Capturas de pantalla
-image.png
-image copy.png
+![alt text](image.png)
+![alt text](image copy.png)
 
 ## Créditos
 Estudiante: Franco Lapalma
