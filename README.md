@@ -28,7 +28,7 @@ npm run dev
 
 ## Capturas de pantalla
 
-(Incluir imágenes del resultado con las tarjetas renderizadas)
+![alt text](captura.png)
 
 ## Créditos
 
