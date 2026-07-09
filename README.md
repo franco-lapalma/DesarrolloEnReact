@@ -70,7 +70,8 @@ src/
 
 ## Capturas de pantalla
 
-*(Agregar capturas de pantalla de la aplicación funcionando)*
+![alt text](captura.png)
+
 
 ## Créditos
 
