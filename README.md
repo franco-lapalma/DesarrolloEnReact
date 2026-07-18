@@ -41,7 +41,7 @@ La aplicación estará disponible en `http://localhost:5173` (o el puerto que in
 ## Capturas de pantalla
 
 ### 1. Estado de carga
-![alt text](captura.png)
+![alt text](/docs/captura.png)
 *Muestra "Cargando usuarios..." mientras se realiza la petición fetch.*
 
 ### 2. Estado de error
