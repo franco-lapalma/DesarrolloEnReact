@@ -41,18 +41,18 @@ La aplicación estará disponible en `http://localhost:5173` (o el puerto que in
 ## Capturas de pantalla
 
 ### 1. Estado de carga
-![Cargando](docs/captura-loading.png)
+![alt text](captura.png)
 *Muestra "Cargando usuarios..." mientras se realiza la petición fetch.*
 
 ### 2. Estado de error
-![Error](docs/captura-error.png)
+![alt text](captura1.png)
 *Muestra mensaje de error y botón "Reintentar" si la API falla o no responde.*
 
 ### 3. Estado con datos
-![Datos](docs/captura-datos.png)
+![alt text](captura2.png)
 *Lista de usuarios con tarjetas (nombre, email, teléfono, web, empresa, dirección), barra de búsqueda y botón recargar.*
 
-> **Nota:** Las capturas se encuentran en la carpeta `docs/`. Para generarlas, ejecuta la app y toma screenshots de cada estado (puedes simular error desconectando internet o cambiando la URL de la API).
+> **Nota:** Las capturas se encuentran en la carpeta `docs/`.
 
 ## Créditos
 - **Autor:** Franco
