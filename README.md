@@ -90,18 +90,23 @@ npm run dev
 ## Capturas de pantalla
 
 ### Inicio - Rutas estaticas y navegacion declarativa
+![alt text](captura.png)
 La pagina de inicio muestra cards con enlaces `<Link>` a las distintas secciones del proyecto, incluyendo un ejemplo de `useNavigate()` para navegacion imperativa.
 
 ### Producto - Ruta dinamica con useParams
+![alt text](captura2.png)
 La URL `/producto/1` muestra el producto con ID 1. Cambiando el numero en la URL se muestra un producto diferente. Los botones usan `useNavigate()` para navegar entre productos.
 
 ### Contacto - Query params con useSearchParams
+![alt text](captura3.png)
 La pagina de contacto lee los parametros de la URL (`?categoria=...&tema=...`) usando `useSearchParams()`. Incluye botones para modificar los params y un formulario que los actualiza al enviar.
 
 ### Login - useLocation y redireccion post-login
+![alt text](captura4.png)
 Cuando un usuario no autenticado intenta acceder al Dashboard, es redirigido al Login. El componente Login usa `useLocation()` para saber de que ruta venia y redirige ahi despues del login.
 
 ### Dashboard - Ruta protegida
+![alt text](captura5.png)
 Solo accesible despues de iniciar sesion. Si se intenta acceder sin autenticacion, `ProtectedRoute` redirige al Login usando `Navigate` con el estado de la ubicacion actual.
 
 ## Tecnologias
