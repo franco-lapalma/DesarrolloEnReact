@@ -63,7 +63,7 @@ npm run dev
 4. Abrir en el navegador la URL que indica la terminal (generalmente `http://localhost:5173`).
 
 ## Capturas de pantalla
-
+![alt text](captura1.png)
 ### Formulario con eventos nativos - Estado inicial
 El formulario muestra los campos de nombre y email vacios, junto con el panel de registro de eventos. Al hacer clic en un campo se activa el mensaje de foco correspondiente.
 
@@ -78,7 +78,7 @@ Al presionar Enter dentro del campo nombre, aparece un mensaje amarillo informan
 
 ### onMouseEnter y onMouseLeave
 Al pasar el mouse sobre el boton de envio, este cambia de estilo (color mas oscuro y sombra). Al retirar el mouse, vuelve a su estado normal.
-
+![alt text](captura2.png)
 ### Version con react-hook-form
 La segunda pestana muestra el mismo formulario usando react-hook-form. Incluye validacion declarativa, errores automaticos y un preview en tiempo real con watch().
 
