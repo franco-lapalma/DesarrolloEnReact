@@ -96,7 +96,7 @@ src/
 
 ## 📸 Capturas de Verificación
 
-![alt text](image.png)
+![alt text](image1.png)
 ## 👨‍💻 Créditos
 
 **Autor**: Franco  
