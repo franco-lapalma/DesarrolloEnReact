@@ -1,0 +1,19 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Permitir lectura a todos (autenticados y no autenticados)
+    match /productos/{document} {
+      allow read: if true;
+      
+      // Escritura solo para usuarios autenticados
+      allow create: if request.auth != null;
+      allow update: if request.auth != null;
+      allow delete: if request.auth != null;
+    }
+    
+    // Regla por defecto para otras colecciones (denegar todo)
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
