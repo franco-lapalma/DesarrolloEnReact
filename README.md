@@ -140,31 +140,31 @@ src/
 
 ## 📸 Capturas de Pantalla
 
-### 1. Inserción con addDoc y setDoc
+### 1. Inserción sin estar logueado
 ![Inserción](docs/image1.png)
 
-### 2. Lista de productos y búsqueda por ID
+### 2. Falla por no estar logueado
 ![Leer](docs/image2.png)
 
-### 3. Actualización en tiempo real con onSnapshot
+### 3. Falla de actualizacion por no estar logueado
 ![Tiempo Real](docs/image3.png)
 
-### 4. Actualización con merge y updateDoc
+### 4. Inserción estando logueado
 ![Actualizar](docs/image4.png)
 
-### 5. Eliminación y verificación
+### 5. Creación exitosa 
 ![Eliminar](docs/image5.png)
 
-### 6. Pruebas de reglas sin autenticar / autenticado
+### 6. Actualizamos logueado
 ![Seguridad](docs/image6.png)
 
-### 7. Vista de pestaña Crear
+### 7. Verificación actualización
 ![Crear](docs/image7.png)
 
-### 8. Vista de pestaña Leer
+### 8. Eliminamos logueado
 ![Leer2](docs/image8.png)
 
-### 9. Vista de pestaña Actualizar/Eliminar
+### 9. Verificación
 ![ActualizarEliminar](docs/image9.png)
 
 ## 📚 Bibliografía y Fuentes
