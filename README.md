@@ -78,8 +78,9 @@ Abrir la URL que muestra Vite (por defecto http://localhost:5173).
 ![alt text](image2.png)
 ## Créditos
 
-Trabajo práctico de React Avanzado — Módulo 3, Unidad 3.
-Franco Lapalmahol
+-Trabajo práctico de React Avanzado — Módulo 3, Unidad 3.
+
+-Franco Lapalma
 
 ## Bibliografía
 
