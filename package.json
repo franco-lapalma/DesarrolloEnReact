@@ -1,0 +1,25 @@
+{
+  "name": "mis-peliculas-favoritas",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Aplicación CRUD de películas favoritas con React, React Router y Firebase Firestore.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "seed": "node --env-file=.env scripts/seed.mjs",
+    "seed:clean": "node --env-file=.env scripts/seed.mjs limpiar"
+  },
+  "dependencies": {
+    "firebase": "^10.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "firebase-admin": "^14.3.0",
+    "vite": "^5.4.0"
+  }
+}
